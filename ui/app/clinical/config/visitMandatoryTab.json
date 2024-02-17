@@ -88,7 +88,7 @@
                 "showDetailsButton": true,
                 "showRoute": true,
                 "showDrugForm": true,
-                "showProvider" : true
+                "showProvider" : false
             }
         },
         "Radiology": {
